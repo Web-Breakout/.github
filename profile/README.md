@@ -17,7 +17,7 @@ These guidelines are designed to be straightforward and easy to follow and are n
 
 Please note that we value the contributions of all its members, regardless of age. However, we simply require that all developers be at least **13 years of age**. This is to ensure that they have reached a level of maturity and responsibility necessary for the role.
 
-Secondly, for those who are under **18 years old**, we require **consent or permission from a parent or guardian**. This is to ensure that the responsibilities of being a developer align with their other commitments and well-being.
+Secondly, for those who are under **16 years old**, or **18 in countries outside of North and South America** we require **consent or permission from a parent or guardian**. This is to ensure that the responsibilities of being a developer align with their other commitments and well-being.
 
 While we greatly appreciate the enthusiasm of our younger members, it's important for our developers to have the ability to contribute consistently. This helps us maintain the quality and reliability of our projects.
 
