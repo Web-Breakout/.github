@@ -2,7 +2,7 @@
 
 We welcome you to **Web-Breakout**, a vibrant organization that empowers you to bring your dream projects to life using innovative coding languages.
 
-To embark on your creative journey, please visit the [Web-Breakout's create page](https://web-breakout.github.io/create).
+To start your creative journey, please visit the [Web-Breakout's create page](https://web-breakout.github.io/create).
 
 Should you express interest in becoming a part of our organization or [ELedlow Studios](https://github.com/ELedlowStudios), we invite you to reach out to us. Please feel free to contact [Breakout-X on Github](https://github.com/Breakout-X/), [ELedlow on Scratch](https://scratch.mit.edu/users/ELedlow/), and [mario_TB on Scratch](https://scratch.mit.edu/users/mario_TB).
 
