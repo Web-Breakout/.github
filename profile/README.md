@@ -8,6 +8,8 @@ Should you express interest in becoming a part of our organization or [ELedlow S
 
 We look forward to collaborating with you and witnessing the remarkable projects you will create.
 
+By using or contributing to our repositories, you agree to our [RRCA](https://web-breakout.github.io/RRCA).
+
 > [!NOTE]
 > Please note that if you are joining this organization, we do have some requirements aside from usage of our services.
 >
