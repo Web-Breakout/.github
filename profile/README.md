@@ -4,7 +4,7 @@ We welcome you to **Web-Breakout**, an organization whose goal is to create a we
 
 To start your creative journey, please visit the [Web-Breakout demo page](https://web-breakout.github.io/create).
 
-If you have interest in becoming a part of our organization or [ELedlow Studios](https://github.com/ELedlowStudios), we invite you to reach out to us. Please feel free to contact [Breakout-X on Github](https://github.com/Breakout-X/), or [ELedlow on Scratch](https://scratch.mit.edu/users/ELedlow/) for any questions or requests.
+If you have interest in becoming a part of our organization or [ELedlow Studios](https://github.com/ELedlow-Studios), we invite you to reach out to us. Please feel free to contact [Breakout-X on Github](https://github.com/Breakout-X/), or [ELedlow on Scratch](https://scratch.mit.edu/users/ELedlow/) for any questions or requests.
 
 We look forward to collaborating with you soon.
 
